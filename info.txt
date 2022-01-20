@@ -1,0 +1,16 @@
+API Key - 
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweEZhMDUzODEyNzlhOUU4MWQ0OTBDRjdGNDA5NDk5NTU4QzQ3QjM2MjciLCJpc3MiOiJ3ZWIzLXN0b3JhZ2UiLCJpYXQiOjE2NDI2NjA4NjY0ODgsIm5hbWUiOiJBUEkgVG9rZW4ifQ.9Mu4k2WiDIMLBFbUSflBB3JjWnqbHHr8qqcBQRSVCYc
+
+Documentation - 
+https://docs.web3.storage/
+
+to upload file 
+
+node uploadFile.js --token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweEZhMDUzODEyNzlhOUU4MWQ0OTBDRjdGNDA5NDk5NTU4QzQ3QjM2MjciLCJpc3MiOiJ3ZWIzLXN0b3JhZ2UiLCJpYXQiOjE2NDI2NjA4NjY0ODgsIm5hbWUiOiJBUEkgVG9rZW4ifQ.9Mu4k2WiDIMLBFbUSflBB3JjWnqbHHr8qqcBQRSVCYc ~/Desktop/bafybeiajoak6efampel2hkwcs27fqjkiwlrumzrin54pq2grudum2xopte.car
+
+As I upload the Image I got this CID- 
+bafybeidoleveuftfmct2avtmmondugysb7kvqrdu2ao4gwtkolgz5eszii
+
+The .car file CID- 
+bafybeigvchhnikstdkkotzvzzl4fatouwlypfe4utyrtc3zf3gnn2rya7y
+

@@ -1,0 +1,19 @@
+{
+  "name": "filecoinapi",
+  "version": "1.0.0",
+  "description": "This project was created to store data on fileCoin(web3.storage) using the APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "web3.storage": "^3.1.0"
+},
+
+  "author": "",
+  "license": "ISC"
+}
+
+  
+
